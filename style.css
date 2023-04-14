@@ -73,11 +73,11 @@ button{
         #09f,
         #00DDFF
     );
-    border-radius: 8px;
+    border-radius: 6px;
     color: white;
     display: flex;
     font-size: 18px;
-    padding: 4px;
+    padding: 18px 10px;
     cursor: pointer;
     transition: .3s;
 }
